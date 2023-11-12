@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: gold;
+    font-size: 27px;
+}
+header{
+    font-size: 70px;
+text-align: center;
+color: gold;
+}
+a:hover{
+    color:aliceblue;
+}
+
+a:visited{
+    color:antiquewhite;
+}
+
+a{
+    color:blanchedalmond;
+}
